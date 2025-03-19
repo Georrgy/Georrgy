@@ -1,7 +1,3 @@
-Got it! Here’s the **clean, professional, and structured** version with only the **tech stack from your CV**, using **tags for icons** like your reference.
-
----
-
 ## **👋 Hi, I'm Georgy**  
 💻 **Full Stack Developer** | JavaScript, TypeScript, React, Node.js  
 📍 **Barcelona, Spain**  
