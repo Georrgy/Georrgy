@@ -13,7 +13,3 @@ I specialize in building **scalable and high-performance applications** with a f
 
 ### **📬 Contact Me**  
 📧 [Email](mailto:ovsyannikovgeorgy@gmail.com) | [LinkedIn](https://www.linkedin.com/in/georgy)  
-
-
-
-Got it! Here’s the **clean, professional, and structured** version with only the **tech stack from your CV**, using **tags for icons** like your reference.
