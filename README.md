@@ -34,11 +34,6 @@ I specialize in **building scalable and high-performance applications** with a f
 
 ---
 
-### **📊 GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=georgeflow&show_icons=true&theme=dark)  
-
----
-
 ### **📫 Contact Me**  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ovsyannikovgeorgy@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
