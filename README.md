@@ -1,8 +1,8 @@
 👋 Hi, I’m Georgy!
-I’m first of all dedicated to building and optimizing things ⚡—whether it’s in code, movement, or life.
+I’m first of all dedicated to building and optimizing things 🧩 — whether it’s in code, movement, or life.
 
 I break down complex systems, refine them, and make them smarter and faster.
-When I’m not coding, I’m mastering calisthenics, muscle-ups, tennis, or running—always pushing limits.
+When I’m not coding, I’m mastering calisthenics, tennis or running—always pushing limits.
 
 ### **⚡ Tech Stack**  
 #### **Languages**  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
