@@ -12,4 +12,4 @@ When I’m not coding, I’m mastering calisthenics, tennis or running—always 
 #### **Other Tools**  ![API Integration](https://img.shields.io/badge/-API%20Integration-FF6F00?style=flat)![Unit Testing](https://img.shields.io/badge/-Unit%20Testing-46a2f1?style=flat)![Authentication](https://img.shields.io/badge/-Authentication-FF6F00?style=flat)![Networking](https://img.shields.io/badge/-Networking-0078D7?style=flat)  
 
 ### **📬 Contact Me**  
-📧 [Email](mailto:ovsyannikovgeorgy@gmail.com) | [LinkedIn](https://www.linkedin.com/in/georgy)  
+📧 [Email](mailto:ovsyannikovgeorgy@gmail.com) | [LinkedIn](https://www.linkedin.com/in/georgeflow/)  
